@@ -1,4 +1,4 @@
-ABOUT
+**ABOUT**
 
 MuPDF is a lightweight open source software framework for viewing and converting
 PDF, XPS, and E-book documents.
@@ -7,7 +7,7 @@ See the documentation in docs/index.html for an overview.
 
 Build instructions can be found in docs/building.html.
 
-LICENSE
+**LICENSE**
 
 MuPDF is Copyright (c) 2006-2020 Artifex Software, Inc.
 
